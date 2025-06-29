@@ -5,7 +5,7 @@ Skilled in Excel, SQL, Power BI, Figma. I love bridging the gap between data ins
 Always learning new tools and approaches to make data and design more powerful, meaningful, and accessible.
 
 - 🔭 I’m currently working on this page.🎓 *B.Tech 2nd Year Student  
-- 🌱 I’m currently learning 🌱 Passionate about *Coding,*Machine Learning,*web Development 
+- 🌱 I’m currently learning 🌱 Passionate about *Coding,*web Development 
 - 👯 I’m looking to collaborate on github 
 
  🛠️ Skills
