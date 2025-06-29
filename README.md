@@ -23,7 +23,9 @@ I love building cool projects, exploring new tech stacks, and turning ideas into
 ---
 ## 🛠️ Tech Stack
 <p>
-   <img align="middle" alt="Coding" width="122" src="https://i.pinimg.com/474x/1f/db/ce/1fdbce52429088209094dd52a5e7fd3f.jpg"/>
- 
+   <img align="middle" alt="Coding" width="122" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/826px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png"/>
+    <img align="middle" alt="Coding" width="122" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Sql_data_base_with_logo.svg/1200px-Sql_data_base_with_logo.svg.png"/>
+     <img align="middle" alt="Coding" width="122" src="https://logos-world.net/wp-content/uploads/2022/02/Power-BI-Logo.png"/>
+   
 </p>
 
