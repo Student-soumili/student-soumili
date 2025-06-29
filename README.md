@@ -3,18 +3,15 @@
 Currently a 2nd-year B.Tech student with a passion for coding, creativity, and continuous learning. i love to solve real life problems.I am strategic,Goal oriented and always work with an end goal in mind
 I love building cool projects, exploring new tech stacks, and turning ideas into reality one commit at a time.
 
-
-Skills:  HTML / CSS / JS / REACT
-
 - 🔭 I’m currently working on this page.🎓 *B.Tech 2nd Year Student  
 - 🌱 I’m currently learning 🌱 Passionate about *Coding,*Machine Learning,*web Development 
 - 👯 I’m looking to collaborate on github 
 
  🛠️ Skills
 
-- **Excel** (Advanced formulas, pivot tables, VBA)
-- **SQL** (MySQL, SQL Server, PostgreSQL)
-- **Power BI** (DAX, Power Query, dashboards)
+- Excel (Advanced formulas, pivot tables, VBA)
+- SQL(MySQL, SQL Server, PostgreSQL)
+- Power BI (DAX, Power Query, dashboards)
 
 ---
 
