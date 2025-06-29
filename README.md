@@ -28,7 +28,9 @@ Always learning new tools and approaches to make data and design more powerful, 
     <img align="middle" alt="Coding" width="122" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Sql_data_base_with_logo.svg/1200px-Sql_data_base_with_logo.svg.png"/>
      <img align="middle" alt="Coding" width="122" src="https://logos-world.net/wp-content/uploads/2022/02/Power-BI-Logo.png"/>
 </p>
-## 🎨 Design 
+
+---
+## 🎨 UX/UI Designer 
 <p>
   <img align="middle" alt="Coding" width="122" src="https://1000logos.net/wp-content/uploads/2024/09/Figma-Logo.png"/>
 </p>
