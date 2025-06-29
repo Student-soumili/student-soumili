@@ -15,40 +15,15 @@ I love building cool projects, exploring new tech stacks, and turning ideas into
 
 ---
 
-## 📊 My Projects
-
-- [Sales Performance Dashboard — Power BI](#)  
-- [Customer Segmentation Analysis — SQL + Excel](#)  
-- [Financial Forecasting Model — Excel](#)  
-
-> *More coming soon!*
-
----
-
 ## 🌟 Let's Connect
 
 - 💼 [LinkedIn](https://linkedin.com/in/your-profile)
 - ✉️ [Email](mailto:your.email@example.com)
 
 ---
-
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
-
-⚡ How to add an image
-Create or design a banner image (for example, 1200×400 px). You can use Canva, Figma, or Photoshop.
-
-Upload it to your GitHub repository (or host it elsewhere).
-
-Replace https://your-image-link.com/banner.png in the markdown with the actual URL to your image.
-If you upload it to your repo, the link will be something like:
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Student-soumili)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Student-soumili&show_icons=true)  
-
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/Student-soumili/contributions?format=svg&private=false)  
-
-![GitHub metrics](https://metrics.lecoq.io/Student-soumili)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Student-soumili)  
+## 🛠️ Tech Stack
+<p>
+   <img align="middle" alt="Coding" width="122" src="https://i.pinimg.com/474x/1f/db/ce/1fdbce52429088209094dd52a5e7fd3f.jpg"/>
+ 
+</p>
 
