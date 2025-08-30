@@ -27,6 +27,8 @@ Always learning new tools and approaches to make data and design more powerful, 
    <img align="middle" alt="Coding" width="122" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/826px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png"/>
     <img align="middle" alt="Coding" width="122" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Sql_data_base_with_logo.svg/1200px-Sql_data_base_with_logo.svg.png"/>
      <img align="middle" alt="Coding" width="122" src="https://logos-world.net/wp-content/uploads/2022/02/Power-BI-Logo.png"/>
+   <img align="middle" alt="Coding" width="120" src="https://i0.wp.com/junilearning.com/wp-content/uploads/2020/06/python-programming-language.webp?fit=800%2C800&ssl=1"/>
+
 </p>
 
 ---
