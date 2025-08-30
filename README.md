@@ -16,6 +16,18 @@ Always learning new tools and approaches to make data and design more powerful, 
 
 ---
 
+### 📊 GitHub Stats  
+![BABA's GitHub stats](https://github-readme-stats.vercel.app/api?username=student-soumili&show_icons=true&theme=tokyonight)
+
+### 📂 Top Languages  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=student-soumili&layout=compact&langs_count=10&theme=tokyonight)
+
+### 🥧 Languages Pie Chart  
+![BABA's GitHub Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=student-soumili&theme=tokyonight)  
+![BABA's Commit Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=student-soumili&theme=tokyonight)
+
+---
+
 ## 🌟 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/soumili-dutta-557a14278/)
