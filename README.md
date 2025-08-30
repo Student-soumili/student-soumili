@@ -16,18 +16,6 @@ Always learning new tools and approaches to make data and design more powerful, 
 
 ---
 
-### 📊 GitHub Stats  
-![BABA's GitHub stats](https://github-readme-stats.vercel.app/api?username=student-soumili&show_icons=true&theme=tokyonight)
-
-### 📂 Top Languages  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=student-soumili&layout=compact&langs_count=10&theme=tokyonight)
-
-### 🥧 Languages Pie Chart  
-![BABA's GitHub Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=student-soumili&theme=tokyonight)  
-![BABA's Commit Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=student-soumili&theme=tokyonight)
-
----
-
 ## 🌟 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/soumili-dutta-557a14278/)
@@ -40,6 +28,17 @@ Always learning new tools and approaches to make data and design more powerful, 
     <img align="middle" alt="Coding" width="122" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Sql_data_base_with_logo.svg/1200px-Sql_data_base_with_logo.svg.png"/>
      <img align="middle" alt="Coding" width="122" src="https://logos-world.net/wp-content/uploads/2022/02/Power-BI-Logo.png"/>
 </p>
+
+---
+### 📊 GitHub Stats  
+![BABA's GitHub stats](https://github-readme-stats.vercel.app/api?username=student-soumili&show_icons=true&theme=tokyonight)
+
+### 📂 Top Languages  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=student-soumili&layout=compact&langs_count=10&theme=tokyonight)
+
+### 🥧 Languages Pie Chart  
+![BABA's GitHub Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=student-soumili&theme=tokyonight)  
+![BABA's Commit Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=student-soumili&theme=tokyonight)
 
 ---
 ## 🎨 UX/UI Designer 
