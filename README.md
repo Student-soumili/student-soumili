@@ -27,8 +27,8 @@ Always eager to learn and adapt, I thrive in dynamic environments where innovati
 ##  Data Handling Tools
 <p>
    <img align="middle" alt="Coding" width="70" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/826px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png"/>
-     <img align="middle" alt="Coding" width="65" src="https://sc.filehippo.net/images/t_app-icon-l/p/917c77e8-96d1-11e6-8453-00163ed833e7/4171024085/mysql-com-logo"/>
-     <img align="middle" alt="Coding" width="108" src="https://logos-world.net/wp-content/uploads/2022/02/Power-BI-Logo.png"/>
+   <img align="middle" alt="Coding" width="65" src="https://sc.filehippo.net/images/t_app-icon-l/p/917c77e8-96d1-11e6-8453-00163ed833e7/4171024085/mysql-com-logo"/>
+   <img align="middle" alt="Coding" width="68" src="https://store-images.s-microsoft.com/image/apps.8409.14405452487353876.a6612b1c-3bfc-46da-ad7e-0dd83b65757d.69df8840-e52b-4609-9202-6f2c5f92aea1"/>
 </p>
 
 ---
